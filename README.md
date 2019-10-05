@@ -8,7 +8,7 @@ If you have a problem, a question or a suggestion, you can join us on [IRC](http
 
 ## Contributing to this website
 
-You can clone this repository and make changes to the website by issuing pull requests.
+You can clone this repository and make relevant changes to the website by issuing pull requests.
 To verify that your edits are looking like they should, you can host a local copy of this
 website using [jekyll][].
 
